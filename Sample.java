@@ -13,7 +13,7 @@ public class Sample {
 
 public class input(){
 	
-	System.out.println("This is Input");
+	System.out.println("This is Inpu of Two");
 	
 	
 }
